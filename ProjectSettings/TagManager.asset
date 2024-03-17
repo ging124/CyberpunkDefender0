@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fountain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Fountain
+  - Player
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3460601039
+    locked: 0
+  - name: TileBackground
+    uniqueID: 3576946547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Normal
+    uniqueID: 1055842395
+    locked: 0
+  - name: Item
+    uniqueID: 1098443469
+    locked: 0
+  - name: Effect
+    uniqueID: 1548883149
+    locked: 0
+  - name: Hight
+    uniqueID: 1881800111
+    locked: 0
+  - name: 
+    uniqueID: 3053011073
+    locked: 0
